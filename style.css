@@ -17,11 +17,16 @@
     flex-direction: column;
     border-radius: 2%;
     color: #8D448B;
-    box-shadow:0 4px 8px rgb(168, 163, 163) ;
+    box-shadow:0 2px 4px rgb(119, 115, 115) ;
     transition: 0.4sec ease-in-out;
     justify-items: center;
     align-items: center;
-
+    
+}
+h1{
+    font-weight: 400;
+    font-size: 28px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .container .box img{
     width: 90px;
